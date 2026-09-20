@@ -1,7 +1,7 @@
 {
   "id": "openmake-legal-pack",
   "name": "OpenMake Legal Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "법무 분야 전문 스킬 5종",
   "requires": {
     "openmake": ">=1.0.0 <2.0.0"
